@@ -1,6 +1,7 @@
 #Problem 1:Given a list of laptimes, convert it into seconds and store the value in a new list
 #Problem 2:Find the fastes lap,average laptime and consistency of the driver
 #Problem 3:Finding the lap where degradation starts.(Lap after which the next 2 laps were slower)
+#Problem 4:Find Out Avg Speed
 import numpy as np
 lap_times = np.array([
     "1:32.345",
@@ -42,4 +43,10 @@ while p!=len(s_times):
     else:
         p+=1
 print(f'Deg lap: {deg_lap}')
+
+#Creating an avg speed calculator given the distance is 5.807 km
+race_dist=5.807
+avg_speed=(5.807*len(s_times)/sum(s_times))*3600
+print(f'Average speed: {avg_speed}')
+
 
