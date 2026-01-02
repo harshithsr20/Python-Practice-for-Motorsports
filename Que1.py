@@ -2,7 +2,9 @@
 #Problem 2:Find the fastes lap,average laptime and consistency of the driver
 #Problem 3:Finding the lap where degradation starts.(Lap after which the next 2 laps were slower)
 #Problem 4:Find Out Avg Speed
-#Problem 5:
+#Problem 5:Checking consistency if the laptimes are within 0.5 seconds of the average
+#Problem 6:Sector time analyser
+#Problem 8:Delta time calculator between 2 laps
 import numpy as np
 lap_times = np.array([
     "1:32.345",
