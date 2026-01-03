@@ -11,7 +11,6 @@ This includes data cleaning, NumPy operations, Pandas analysis, and visualizatio
 
 ## Key Takeaways
 - Learned how to process motorsport data
-- Visualized trends using Matplotlib
 - Structured notebooks for clarity
 
 ## Tools Used
