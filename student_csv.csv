@@ -1,0 +1,11 @@
+StudentID,Name,Age,Gender,Branch,Year,CGPA,Attendance,City
+101,Arjun,18,M,CSE,1,8.2,92,Bangalore
+102,Rahul,19,M,ISE,1,7.5,85,Mysore
+103,Neha,18,F,CSE,1,9.1,96,Delhi
+104,Priya,20,F,ECE,2,8.7,90,Chennai
+105,Karthik,21,M,ME,3,6.9,78,Hyderabad
+106,Aditi,19,F,CSE,2,9.3,98,Mumbai
+107,Rohan,22,M,CE,4,7.2,80,Pune
+108,Sneha,20,F,EEE,2,8.0,88,Coimbatore
+109,Vikram,21,M,CSE,3,8.5,91,Bangalore
+110,Ananya,18,F,ISE,1,9.0,95,Kolkata
